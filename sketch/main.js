@@ -22,7 +22,7 @@ let angle = 45;
 let img;
 
 function preload() {
-  img = loadImage('../img/game.png');
+  img = loadImage('img/game.png');
 }
 
 function setup() {
